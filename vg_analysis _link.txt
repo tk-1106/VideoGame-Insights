@@ -1,0 +1,8 @@
+step 1---> copy the html link in the above vg analysis.html.
+step 2---> paste the link in the google search engine.
+
+(or)
+
+copy this link: 
+
+Link : https://public.tableau.com/views/Videogamesinsights/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
